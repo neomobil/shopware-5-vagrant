@@ -1,4 +1,4 @@
-Vagrant Shopware Box
+Vagrant Shopware 5 Box Supports also PHP 7.3
 ====================
 
 ## Installation
